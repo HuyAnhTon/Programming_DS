@@ -1,4 +1,11 @@
 # Programming_DS
+
+- Phase 1: thực hiện tiền xử lý trên branch `main`
+- Phase 2: 
+   - Các thành viên tự tạo branch của riêng mình để đặt câu hỏi và trả lời trên dữ liệu đã được xử lý từ `Phase 1`
+   - Sau khi hoàn tất, merge các `branch cá nhân` vào `main`
+   - `branch cá nhân` đặt tên là `question_x` ví dụ (question_1, question_2...)
+
  
 # Phase 1: Khám phá dữ liệu
 
